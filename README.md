@@ -27,7 +27,7 @@ https://lucid.app/lucidchart/8caa218d-8dd2-4dc0-8c86-2fb64fbac522/edit
 
 > Tip: Export your Lucid diagram as PNG and commit it to `docs/diagrams/architecture.png`, then embed it below:
 >
-> ![Architecture](docs/diagrams/architecture.png)
+> ![Architecture](docs/architecture.png)
 
 ---
 
