@@ -7,7 +7,6 @@ A web UI for running research-style chat conversations against a project knowled
 ## Live Demo
 
 - Production: https://ayush7970.vercel.app/current  
-- Local: http://localhost:5173/current
 
 ---
 
